@@ -14,7 +14,7 @@ msgstr ""
 "Language-Team: Portuguese Portugal <>\n"
 "Language: pt_PT"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: src/calibrate/calibrate.cpp:238
@@ -87,12 +87,12 @@ msgstr "Modo de turbo"
 #: src/cpu/cpu_core.cpp:37
 #, c-format
 msgid " Core(HW)"
-msgstr "Núcleo(HW)"
+msgstr " Núcleo(HW)"
 
 #: src/cpu/cpu_core.cpp:37
 #, c-format
 msgid " Core(OS)"
-msgstr "Núcleo(OS)"
+msgstr " Núcleo(OS)"
 
 #: src/cpu/cpu_core.cpp:91 src/cpu/intel_cpus.cpp:367
 #, c-format
@@ -169,7 +169,7 @@ msgstr "Analisando o C0"
 #: src/cpu/cpu_linux.cpp:242
 #, c-format
 msgid " CPU(OS) %i"
-msgstr "CPU(OS) %i"
+msgstr " CPU(OS) %i"
 
 #: src/cpu/cpu_linux.cpp:341 src/cpu/intel_cpus.cpp:733
 #, c-format
@@ -179,7 +179,7 @@ msgstr " CPU %i"
 #: src/cpu/cpu_package.cpp:47
 #, c-format
 msgid " Pkg(HW)"
-msgstr "Pacote(HW)"
+msgstr " Pacote(HW)"
 
 #: src/cpu/cpu_package.cpp:47
 #, c-format
@@ -208,7 +208,7 @@ msgstr "Média"
 #: src/cpu/intel_gpu.cpp:64
 #, c-format
 msgid "  GPU "
-msgstr " GPU "
+msgstr "  GPU "
 
 #: src/devices/ahci.cpp:154
 #, c-format
@@ -264,7 +264,7 @@ msgstr "Estatísticas da frequência do dispositivo"
 
 #: src/devices/devfreq.cpp:278
 msgid " Devfreq is not enabled"
-msgstr " O Devfreq não esta ativado"
+msgstr " O Devfreq não está ativado"
 
 #: src/devices/devfreq.cpp:283
 msgid " No devfreq devices available"
@@ -287,7 +287,7 @@ msgstr "A base de referência de energia do sistema está estimada em %sW\n"
 
 #: src/devices/device.cpp:187
 msgid "Power est.    Usage     Device name\n"
-msgstr "Estimativa de consumo    Utilização     Nome do dispositivo\n"
+msgstr "Est. de consumo    Utilização     Nome do dispositivo\n"
 
 #: src/devices/device.cpp:189
 msgid "              Usage     Device name\n"
@@ -408,7 +408,7 @@ msgstr "    0 mW"
 
 #: src/lib.cpp:410
 msgid "PS/2 Touchpad / Keyboard / Mouse"
-msgstr "PS/2 Touchpad (Rato de toque) / Teclado/ Rato"
+msgstr "PS/2 Touchpad (Rato de toque) / Teclado / Rato"
 
 #: src/lib.cpp:411
 msgid "SATA controller"
@@ -481,7 +481,7 @@ msgstr "[=devnode]"
 
 #: src/main.cpp:128
 msgid "uses an Extech Power Analyzer for measurements"
-msgstr "utiliza um analizador de energia Extech para fazer medições"
+msgstr "utiliza um analisador de energia Extech para fazer medições"
 
 #: src/main.cpp:129
 msgid "generate a html report"
@@ -631,7 +631,7 @@ msgstr ""
 #: src/perf/perf.cpp:117
 #, c-format
 msgid "PowerTOP %s needs the kernel to support the 'perf' subsystem\n"
-msgstr "O PowerTOP %s necessita que o kernel suporte o sub-sistema 'perf'\n"
+msgstr "O PowerTOP %s necessita que o kernel suporte o subsistema 'perf'\n"
 
 #: src/perf/perf.cpp:118
 #, c-format
@@ -658,7 +658,7 @@ msgstr "Resumo"
 
 #: src/process/do_process.cpp:846
 msgid "wakeups/second"
-msgstr "despertar/segundos"
+msgstr "despertar/segundo"
 
 #: src/process/do_process.cpp:846
 msgid "GPU ops/seconds"
@@ -707,7 +707,7 @@ msgstr "Disk IO/segundo"
 
 #: src/process/do_process.cpp:930
 msgid "GFX Wakeups/s"
-msgstr "Despertar de GFX/segundos"
+msgstr "Despertar de GFX/segundo"
 
 #: src/process/do_process.cpp:1017
 msgid "Overview of Software Power Consumers"
