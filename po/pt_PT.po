@@ -97,7 +97,7 @@ msgstr " Núcleo(OS)"
 #: src/cpu/cpu_core.cpp:91 src/cpu/intel_cpus.cpp:367
 #, c-format
 msgid "  Core"
-msgstr " Núcleo"
+msgstr "  Núcleo"
 
 #: src/cpu/cpu.cpp:85
 #, c-format
